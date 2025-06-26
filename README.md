@@ -1,2 +1,2 @@
 # XorChar
-This project is maintained by 董梅
+This project is maintained by Mei Dong
